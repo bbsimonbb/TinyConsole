@@ -1,0 +1,7 @@
+C:\Users\sby\Documents\Visual Studio 2015\Projects\TinyConsole\Helpers\bin\Debug\Helpers.dll
+C:\Users\sby\Documents\Visual Studio 2015\Projects\TinyConsole\Helpers\bin\Debug\Helpers.pdb
+C:\Users\sby\Documents\Visual Studio 2015\Projects\TinyConsole\Helpers\bin\Debug\TinyConsole.exe
+C:\Users\sby\Documents\Visual Studio 2015\Projects\TinyConsole\Helpers\bin\Debug\TinyConsole.pdb
+C:\Users\sby\Documents\Visual Studio 2015\Projects\TinyConsole\Helpers\obj\Debug\Helpers.csprojResolveAssemblyReference.cache
+C:\Users\sby\Documents\Visual Studio 2015\Projects\TinyConsole\Helpers\obj\Debug\Helpers.dll
+C:\Users\sby\Documents\Visual Studio 2015\Projects\TinyConsole\Helpers\obj\Debug\Helpers.pdb

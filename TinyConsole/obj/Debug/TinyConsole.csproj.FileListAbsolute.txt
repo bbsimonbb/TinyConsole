@@ -1,0 +1,6 @@
+c:\users\sby\documents\visual studio 2015\Projects\TinyConsole\TinyConsole\bin\Debug\TinyConsole.exe.config
+c:\users\sby\documents\visual studio 2015\Projects\TinyConsole\TinyConsole\bin\Debug\TinyConsole.exe
+c:\users\sby\documents\visual studio 2015\Projects\TinyConsole\TinyConsole\bin\Debug\TinyConsole.pdb
+c:\users\sby\documents\visual studio 2015\Projects\TinyConsole\TinyConsole\obj\Debug\TinyConsole.csprojResolveAssemblyReference.cache
+c:\users\sby\documents\visual studio 2015\Projects\TinyConsole\TinyConsole\obj\Debug\TinyConsole.exe
+c:\users\sby\documents\visual studio 2015\Projects\TinyConsole\TinyConsole\obj\Debug\TinyConsole.pdb
